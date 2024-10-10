@@ -1,0 +1,166 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: tahoma;
+}
+
+.secao {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.paragrafo {
+    font-size: 18px;
+    text-align: justify;
+    line-height: 28px;
+    margin: 10px auto;
+    width: 980px;
+}
+
+.topo {
+    background-color: #afddfb;
+}
+
+.topo img {
+    width: 150px;
+}
+
+.paragrafo-topo {
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 25px;
+
+}
+
+.link-topo {
+    color: #1d1d1d;
+    font-size: 18px;
+    text-decoration: none;
+    margin: 0 10px;
+
+}
+
+.link-topo:hover {
+    color: blue;
+}
+
+.banner {
+    margin-top: 50px;
+    padding-top: 0;
+    margin-left: 160px;
+}
+
+h1 {
+    color: #1d1d1d;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+h2 {
+    color: #1c81c0;
+    margin-top: 10px;
+    text-align: center;
+    font-weight: normal;
+}
+
+.imovel {
+    margin-top: 30px;
+    width: 450px;
+    margin-left: 500px;
+
+}
+
+.paragrafo-sobre {
+
+    width: 1000px;
+    text-align: justify;
+    margin-left: 10%;
+}
+
+.texto-azul {
+    color: #1d80c1;
+    font-weight: bold;
+}
+
+.servicos {
+    background-color: #1d80c1;
+    width: 100%;
+    height: 550px;
+
+}
+
+h3 {
+
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.primeiro {
+    text-align: center;
+    width: 500px;
+    color: #ffffff;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+}
+
+.texto-amarelo {
+    color: #fff81b;
+}
+
+.motivo {
+    text-align: center;
+    color: #ffffff;
+    font-size: 20px;
+    margin-top: 100px;
+    line-height: 30px;
+}
+
+h4 {
+    color: #1d80c1;
+    font-size: 28px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.foto {
+    width: 450px;
+    margin-top: 50px;
+    margin-left: 450px;
+
+}
+
+.segundo {
+    margin-top: 30px;
+    margin-left: 280px;
+    width: 900px;
+    font-weight: bold;
+}
+.ultimo {
+    text-align: center;
+    background-color:#1d80c1;
+
+}
+.terceiro {
+    background-color: #1d1d1d;
+    color: #ffffff;
+    padding: 15px;
+    text-align: center;
+    width: 1000px;
+    margin-top: 25px;
+    margin-left: 180px;
+}
+.lista {
+    color:#ffffff;
+    margin-top: 20px
+}
